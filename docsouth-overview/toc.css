@@ -1,0 +1,9 @@
+h1  {text-align: center; color: rgba(30, 126, 150, 0.858);}
+p {text-align: center; padding-top: 3px;
+    padding-right: 80px;
+    padding-bottom: 1px;
+    padding-left: 80px;}
+* {background-color: white; font-family: "Gill Sans", sans-serif; padding: 10px;}
+table, th, td {padding: 15px; border-bottom: 1px solid;}
+.header {color: rgba(30, 126, 150, 0.858);}
+a {color: rgba(30, 126, 150, 0.858);}
